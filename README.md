@@ -17,4 +17,4 @@
 
 # Ekran Görüntüleri
 
-<img src="https://github.com/onermorkoc/Music-Player/raw/main/img/ss-1.jpg" width="200"> <img src="https://github.com/onermorkoc/Music-Player/raw/main/img/ss-2.jpg" width="200"> <img src="https://github.com/onermorkoc/Music-Player/raw/main/img/ss-3.jpg" width="200"> 
+<img src="https://raw.githubusercontent.com/onermorkoc/Music-Player/main/img/photo-1.jpg" width="200"> <img src="https://raw.githubusercontent.com/onermorkoc/Music-Player/main/img/photo-2.jpg" width="200"> <img src="https://raw.githubusercontent.com/onermorkoc/Music-Player/main/img/photo-3.jpg" width="200"> <img src="https://raw.githubusercontent.com/onermorkoc/Music-Player/main/img/photo-4.jpg" width="200">
